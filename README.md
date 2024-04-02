@@ -66,27 +66,11 @@
 
 ## GitHub Stats:
 
-<div style="margin-bottom: 10px;">
-    <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshu-kapoor&" alt="rupanshu-kapoor" width=500 />
-    </p>
-</div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshu-kapoor&" alt="rupanshu-kapoor" width=700 height=300 />
 
-<br clear="center">
-
-
-<div style="margin-bottom: 10px;">
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanshu-kapoor&show_icons=true&locale=en" alt="rupanshu-kapoor" width=500 />
-    </p>
-</div>
-<br clear="center">
-
-<div style="margin-bottom: 10px;">
-    <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanshu-kapoor&show_icons=true&locale=en&layout=compact" alt="rupanshu-kapoor" width=500 />
-    </p>
-</div>
-<br clear="center">
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupanshu-Kapoor&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupanshu-Kapoor&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupanshu-Kapoor&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupanshu-Kapoor&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupanshu-Kapoor&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rupanshu-Kapoor&theme=default&utcOffset=8)
