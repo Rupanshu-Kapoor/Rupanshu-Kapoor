@@ -66,25 +66,27 @@
 
 ## GitHub Stats:
 
-<div style="margin-bottom: 5px;">
+<div style="margin-bottom: 10px;">
     <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshu-kapoor&" alt="rupanshu-kapoor" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshu-kapoor&" alt="rupanshu-kapoor" width=500 />
     </p>
 </div>
 
-<br clear="left">
+<br clear="center">
+
 
 <div style="margin-bottom: 10px;">
-    <p align="left">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanshu-kapoor&show_icons=true&locale=en&layout=compact" alt="rupanshu-kapoor" height=200  />
+    <p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanshu-kapoor&show_icons=true&locale=en" alt="rupanshu-kapoor" width=500 />
     </p>
 </div>
+<br clear="center">
 
 <div style="margin-bottom: 10px;">
-    <p align="right">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=rupanshu-kapoor&show_icons=true&locale=en" alt="rupanshu-kapoor" height=200 width=600 />
+    <p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanshu-kapoor&show_icons=true&locale=en&layout=compact" alt="rupanshu-kapoor" width=500 />
     </p>
 </div>
-
+<br clear="center">
 
 
