@@ -76,13 +76,13 @@
 
 <div style="margin-bottom: 10px;">
     <p align="left">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanshu-kapoor&show_icons=true&locale=en&layout=compact" alt="rupanshu-kapoor" height=200 />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanshu-kapoor&show_icons=true&locale=en&layout=compact" alt="rupanshu-kapoor" height=200  />
     </p>
 </div>
 
 <div style="margin-bottom: 10px;">
     <p align="right">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=rupanshu-kapoor&show_icons=true&locale=en" alt="rupanshu-kapoor" height=200 />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=rupanshu-kapoor&show_icons=true&locale=en" alt="rupanshu-kapoor" height=200 width=600 />
     </p>
 </div>
 
