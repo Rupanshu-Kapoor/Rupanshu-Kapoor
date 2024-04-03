@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [here.](https://github.com/Rupanshu-Kapoor?tab=repositories)  
   
 
-- 📫 How to reach me [LinkedIn.](https://www.linkedin.com/in/kapoor97)  
+- 📫 You can reach me on [LinkedIn.](https://www.linkedin.com/in/kapoor97)  
   
 
 <br/>  
