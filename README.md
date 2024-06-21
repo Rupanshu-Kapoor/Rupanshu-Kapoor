@@ -66,7 +66,6 @@
 
 ## GitHub Stats:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshu-kapoor&" alt="rupanshu-kapoor" width=700 height=300 />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupanshu-Kapoor&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupanshu-Kapoor&theme=default)
