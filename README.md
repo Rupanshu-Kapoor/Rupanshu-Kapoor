@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rupanshu Kapoor</h1>
-<h3 align="center">🤖 AI/ML Engineer | Data Scientist | Python Developer | Passionate about Unlocking Insights from Data 📊</h3>
+<!-- <h3 align="center">🤖 AI/ML Engineer | Data Scientist | Python Developer | Passionate about Unlocking Insights from Data 📊</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanshu-kapoor&label=Profile%20views&color=0e75b6&style=flat" alt="rupanshu-kapoor" /> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&background=1E1E1E&color=F5F5F5&width=250&lines=📊+Data+Scientist;🤖+AI/ML+Engineer;🐍+Python+Developer;📈+Data+Analyst](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&background=1E1E1E&color=F5F5F5&center=true&vCenter=true&width=250&lines=📊+Data+Scientist;🤖+AI/ML+Engineer;🐍+Python+Developer;📈+Data+Analyst"></a>
+</p>
 
+<p align="left">
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<img src="https://komarev.com/ghpvc/?username=rupanshu-kapoor&label=Profile%20views&color=0e75b6&style=flat" alt="rupanshu-kapoor" /> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🔭 I’m currently working on **Deep Learning**  
   
